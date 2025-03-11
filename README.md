@@ -90,6 +90,6 @@ RCB’s steeper cumulative run rate and timely wickets disrupted DC’s momentum
 ## Conclusion
 RCB’s victory stemmed from consistent scoring, strategic bowling, and resilience despite wickets. Standout performances from Patidar, Kohli, and effective partnerships underscored their edge. This analysis demonstrates my ability to derive actionable insights from sports data.
 
-Author
-Sourabh Sonker
+## Author
+Sourabh Sonker 
 Data Scientist
