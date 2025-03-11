@@ -24,10 +24,10 @@ To identify top performers (batters and bowlers).
 To evaluate partnerships and phase-wise performance.
 To determine turning points that shaped the match outcome.
 ## Libraries Used
-pandas
-numpy
-matplotlib
-seaborn
+pandas <br>
+numpy <br>
+matplotlib <br>
+seaborn <br>
 ## Data Cleaning and Preprocessing
 The dataset contains null values, but I retained them to preserve data integrity, as dropping or filling could distort the analysis.
 
@@ -91,5 +91,5 @@ RCB’s steeper cumulative run rate and timely wickets disrupted DC’s momentum
 RCB’s victory stemmed from consistent scoring, strategic bowling, and resilience despite wickets. Standout performances from Patidar, Kohli, and effective partnerships underscored their edge. This analysis demonstrates my ability to derive actionable insights from sports data.
 
 ## Author
-Sourabh Sonker 
+Sourabh Sonker <br>
 Data Scientist
