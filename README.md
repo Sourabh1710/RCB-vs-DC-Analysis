@@ -3,7 +3,7 @@
 This project analyzes the IPL 2024 match between Royal Challengers Bangalore (RCB) and Delhi Capitals (DC) using Python. By examining ball-by-ball data, I explore scoring patterns, individual performances, bowling impacts, partnerships, and key turning points to understand what drove RCB’s victory. This project is a key part of my data science portfolio, showcasing my skills in data analysis and visualization.
 
 ## Dataset
-The dataset includes ball-by-ball details with the following columns:
+The [dataset](https://statso.io/ipl-2024-match-dataset/) includes ball-by-ball details with the following columns:
 
 team: Batting team (RCB or DC)
 over: Over number
