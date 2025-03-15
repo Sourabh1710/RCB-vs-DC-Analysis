@@ -18,10 +18,10 @@ fielders: Fielders involved in dismissal <br>
 ## Objective
 The primary objectives are:
 
-To analyze run distribution and scoring trends.
-To identify top performers (batters and bowlers).
-To evaluate partnerships and phase-wise performance.
-To determine turning points that shaped the match outcome.
+To analyze run distribution and scoring trends.<br>
+To identify top performers (batters and bowlers). <br>
+To evaluate partnerships and phase-wise performance. <br>
+To determine turning points that shaped the match outcome. <br>
 ## Libraries Used
 pandas <br>
 numpy <br>
