@@ -4,17 +4,17 @@ This project analyzes the IPL 2024 match between Royal Challengers Bangalore (RC
 ## Dataset
 The [dataset](https://statso.io/ipl-2024-match-dataset/) includes ball-by-ball details with the following columns:
 
-team: Batting team (RCB or DC)
-over: Over number
-batter: Batsman facing the delivery
-bowler: Bowler delivering the ball
-non_striker: Non-striker batsman
-runs_batter: Runs scored by the batter
-runs_extras: Extra runs (e.g., wides, no-balls)
-runs_total: Total runs per delivery
-player_out: Player dismissed (if any)
-wicket_kind: Type of dismissal
-fielders: Fielders involved in dismissal
+team: Batting team (RCB or DC) <br>
+over: Over number <br>
+batter: Batsman facing the delivery <br>
+bowler: Bowler delivering the ball <br>
+non_striker: Non-striker batsman <br>
+runs_batter: Runs scored by the batter <br>
+runs_extras: Extra runs (e.g., wides, no-balls) <br>
+runs_total: Total runs per delivery <br>
+player_out: Player dismissed (if any) <br>
+wicket_kind: Type of dismissal <br>
+fielders: Fielders involved in dismissal <br>
 ## Objective
 The primary objectives are:
 
